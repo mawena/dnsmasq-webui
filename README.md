@@ -146,4 +146,4 @@ Le paquet est alors dispo côté client via `apt update && apt install dnsmasq-w
 
 ## Licence
 
-Licence MIT, © 2026 Charles Gamligo (voir `packaging/debian/copyright`).
+Licence MIT, © 2026 Charles Gamligo : voir [LICENSE](LICENSE).
