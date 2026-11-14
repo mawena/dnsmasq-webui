@@ -143,3 +143,7 @@ Le paquet est alors dispo côté client via `apt update && apt install dnsmasq-w
   argument), via `sudoers.d/dnsmasq-webui`.
 - Dérogation systemd `ReadWritePaths` pour contourner `ProtectSystem=full`.
 - Entrées strictement validées (anti-injection), CSRF, `password_hash`.
+
+## Licence
+
+Licence MIT, © 2026 Charles Gamligo (voir `packaging/debian/copyright`).
